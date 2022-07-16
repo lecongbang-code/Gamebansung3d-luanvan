@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3f0cc74090ec9b4f85a331d08a3d733, type: 3}
+  m_Name: IMG
+  m_EditorClassIdentifier: 
+  bulletMax: 75
+  damage: 20
+  speedBullet: 210
+  recoil: 1.5
+  totalBullet: 0
+  silencer: 0
+  PositionDampTime: 6
+  RotationDampTime: 9
+  Recoil1: 35
+  Recoil2: 35
+  Recoil3: 41
+  Recoil4: 41
+  RecoilRotation: {x: -10, y: 4, z: 20}
+  RecoilKickBack: {x: 1, y: 0.5, z: -6}
+  RecoilRotation_Aim: {x: -4, y: 3, z: 4}
+  RecoilKickBack_Aim: {x: 0.2, y: 0.2, z: -0.5}
+  CurrentRecoil1: {x: -10, y: -2.7459145, z: -18.28341}
+  CurrentRecoil2: {x: 0, y: 0, z: 0}
+  CurrentRecoil3: {x: -0.64986515, y: -0.3246497, z: -6}
+  CurrentRecoil4: {x: 0, y: 0, z: 0}
+  RotationOutput: {x: -3e-45, y: -3e-45, z: -3e-45}
+  aim: 0
+  rotationSpeed: 6
+  returnSpeed: 25
+  RecoilRotationNoAiming: {x: 6, y: 1, z: 6}
+  RecoilRotationAiming: {x: 4, y: 1, z: 4}

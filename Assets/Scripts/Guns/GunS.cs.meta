@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a58ac470fcdba042a5dd2ebd046b33f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weapon: {fileID: 11400000, guid: fe5458bb50e903d4ab8143e545e49ab5, type: 2}
+  - RecoilPositionTranform: {instanceID: 0}
+  - RecoilRotationTranform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

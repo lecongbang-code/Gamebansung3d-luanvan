@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 44cc96ea69cff0149a72fc66940aeeea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - decal: {instanceID: 0}
+  - metalHiteffect: {instanceID: 0}
+  - sandHiteffect: {instanceID: 0}
+  - stoneHiteffect: {instanceID: 0}
+  - waterLeakEffect: {instanceID: 0}
+  - waterLeakExtinguishEffect: {instanceID: 0}
+  - woodHiteffect: {instanceID: 0}
+  - hitmarker: {instanceID: 0}
+  - muzzleFlash: {instanceID: 0}
+  - cartridgeEjection: {instanceID: 0}
+  - weapon: {fileID: 11400000, guid: fe5458bb50e903d4ab8143e545e49ab5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3f0cc74090ec9b4f85a331d08a3d733, type: 3}
+  m_Name: Smg9
+  m_EditorClassIdentifier: 
+  bulletMax: 30
+  damage: 58
+  speedBullet: 315
+  recoil: 0.3
+  totalBullet: 629
+  silencer: 1
+  PositionDampTime: 6
+  RotationDampTime: 9
+  Recoil1: 44
+  Recoil2: 44
+  Recoil3: 48
+  Recoil4: 48
+  RecoilRotation: {x: -11, y: 1, z: 11}
+  RecoilKickBack: {x: 0.5, y: 0.5, z: -1}
+  RecoilRotation_Aim: {x: -2, y: 1, z: 2}
+  RecoilKickBack_Aim: {x: 0.2, y: 0.2, z: -0.5}
+  CurrentRecoil1: {x: -11, y: 0.38352463, z: -5.6321087}
+  CurrentRecoil2: {x: 0, y: 0, z: 0}
+  CurrentRecoil3: {x: 0.15659843, y: 0.12288159, z: -1}
+  CurrentRecoil4: {x: 0, y: 0, z: 0}
+  RotationOutput: {x: -2.4470317e-21, y: 5.680127e-24, z: 4.62391e-22}
+  aim: 0
+  rotationSpeed: 6
+  returnSpeed: 25
+  RecoilRotationNoAiming: {x: 4, y: 1, z: 4}
+  RecoilRotationAiming: {x: 4, y: 1, z: 4}

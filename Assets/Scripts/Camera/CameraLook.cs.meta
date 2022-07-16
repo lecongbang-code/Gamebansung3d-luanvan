@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: efbfd06e19b408d4ca8367602e73f927
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camTrans: {instanceID: 0}
+  - targetLook: {instanceID: 0}
+  - setUpCammera: {fileID: 11400000, guid: 899dd7e1896c6424595d214598927ee7, type: 2}
+  - playerBody: {instanceID: 0}
+  - playerAiming: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

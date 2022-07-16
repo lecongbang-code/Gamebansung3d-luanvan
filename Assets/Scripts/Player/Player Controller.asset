@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdca3c014640df40a46183e55351450, type: 3}
+  m_Name: Player Controller
+  m_EditorClassIdentifier: 
+  money: 98811599
+  gold: 1000
+  key: 45
+  medKit: 5
+  speedMove: 15
+  health: 100
+  aiming: 0
+  reload: 0
+  run: 0
+  akm: 0
+  m4: 0
+  m24: 0
+  smg9: 0
+  img: 0
+  priceUpdataAkm: 5500
+  priceUpdataM4: 5500
+  priceUpdataM24: 5500
+  priceUpdataSmg9: 5500
+  priceUpdataImg: 40700
+  selectAkm: 0
+  selectM4: 1
+  selectM24: 0
+  selectSmg9: 0
+  selectImg: 0
+  scene: 01010000000000
